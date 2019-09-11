@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.10
 LABEL maintainer="Aleksandr Kostyrev <kostyrevaa+kubectl@gmail.com>"
 
 ENV KUBECTL_VERSION v1.14.2
